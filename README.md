@@ -1,4 +1,4 @@
-[NumberMask](https://keygenqt.com/work/js-parallax)
+[Parallax](https://keygenqt.com/work/js-parallax)
 ===================
 
 ![GitHub](https://img.shields.io/github/license/keygenqt/js-parallax)
