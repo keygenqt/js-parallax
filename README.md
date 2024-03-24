@@ -5,7 +5,6 @@ Parallax
 
 A library that allows you to implement a parallax effect on a background with an image.
 
-#### Demonstration of work:
 <p>
     <a href="https://old.keygenqt.com/work/js-parallax">
         <img src="data/demo_button.gif" width="136px"/>
