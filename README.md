@@ -7,7 +7,7 @@ Parallax image html block.
 
 <p>
     <a href="https://old.keygenqt.com/work/js-parallax">
-        <img src="data/other/demo_button.gif" width="136px"/>
+        <img src="data/demo_button.gif" width="136px"/>
     </a>
 </p>
 
