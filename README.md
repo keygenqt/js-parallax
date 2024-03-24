@@ -1,7 +1,7 @@
 Parallax
 ===================
 
-### Subscribe and like! <img src="https://github.com/keygenqt/backupz/blob/main/data/other/star.gif?raw=true" width="16px"/>
+### Subscribe and like! <img src="data/star.gif" width="16px"/>
 
 A library that allows you to implement a parallax effect on a background with an image.
 
