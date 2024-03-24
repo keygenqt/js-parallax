@@ -1,10 +1,9 @@
 Parallax
 ===================
 
-![GitHub](https://img.shields.io/github/license/keygenqt/js-parallax)
+A library that allows you to implement a parallax effect on a background with an image.
 
-Parallax image html block.
-
+#### Demonstration of work:
 <p>
     <a href="https://old.keygenqt.com/work/js-parallax">
         <img src="data/demo_button.gif" width="136px"/>
@@ -12,7 +11,7 @@ Parallax image html block.
 </p>
 
 
-## Usage
+#### Usage:
 
 ```js
 $('#block1').parallax({
@@ -26,4 +25,22 @@ $('#block2').parallax({
 $('#block3').parallax({
     image: '/images/common/block3.jpg'
 });
+```
+
+#### License
+
+```
+Copyright 2020-2024 Vitaliy Zarubin
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
 ```
