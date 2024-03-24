@@ -1,9 +1,16 @@
-[Parallax](https://keygenqt.com/work/js-parallax)
+Parallax
 ===================
 
 ![GitHub](https://img.shields.io/github/license/keygenqt/js-parallax)
 
-Parallax image html block
+Parallax image html block.
+
+<p>
+    <a href="https://old.keygenqt.com/work/js-parallax">
+        <img src="data/other/demo_button.gif" width="136px"/>
+    </a>
+</p>
+
 
 ## Usage
 
