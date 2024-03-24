@@ -11,7 +11,6 @@ A library that allows you to implement a parallax effect on a background with an
     </a>
 </p>
 
-
 #### Usage:
 
 ```js
